@@ -310,7 +310,7 @@ Krishna Kumawat
 
 ## � Contributors
 
-- **Krishna Pavuluri** - Lead Developer & Architecture
+- **Krishna Chandra Pavuluri** - Lead Developer & Architecture
 
 ## �📧 Support
 
