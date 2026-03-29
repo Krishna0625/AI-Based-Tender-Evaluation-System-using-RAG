@@ -308,7 +308,11 @@ MIT License - Feel free to use and modify
 
 Krishna Kumawat
 
-## 📧 Support
+## � Contributors
+
+- **Krishna Pavuluri** - Lead Developer & Architecture
+
+## �📧 Support
 
 For issues and questions, please open an issue on [GitHub Issues](https://github.com/Krishna0625/AI-Based-Tender-Evaluation-System-using-RAG/issues)
 
